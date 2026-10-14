@@ -4,8 +4,8 @@
 class Bg3mfx < Formula
   desc "MetalFX upscaling and frame generation for Baldur's Gate 3 on Steam"
   homepage "https://github.com/AndrewTriesToCode/bg3mfx"
-  url "https://github.com/AndrewTriesToCode/bg3mfx/archive/refs/tags/v0.2.1.tar.gz"
-  sha256 "ce1d7e322ac5f9520b5c9878b146d2e5b8b971b51c16048302a85601bd13915a"
+  url "https://github.com/AndrewTriesToCode/bg3mfx/archive/refs/tags/v0.2.2.tar.gz"
+  sha256 "ab66b8ab6f0742adbdc3feb33b1698f85f6d66ba3e4cbb63caaf0fccbd4a4e06"
   license "MIT"
 
   # Native hooks are ARM64-only; MetalFX frame interpolation needs macOS 26.
